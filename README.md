@@ -1,6 +1,6 @@
 # RKI
 
-Use Dashboard.xlsx to scrape the current estimates for the number of active coronavirus cases in Germany,
+Use update all within Dashboard.xlsx to scrape the current estimates for the number of active coronavirus cases in Germany,
 as well as the current estimates for the basic reproduction number R.
 Source: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/Nowcasting.html
 
