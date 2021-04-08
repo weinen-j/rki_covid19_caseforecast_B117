@@ -4,6 +4,8 @@ Use Dashboard.xlsx to scrape the current estimates for the number of active coro
 as well as the current estimates for the basic reproduction number R.
 Source: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/Nowcasting.html
 
+![](\dashboard.png)
+
 These estimates are scraped using Power Query, a forecast for  is calculated and then visualized within a dashboard:
   1. A line graph plots the developement of the basic reproduction number R over time. 
   2. A bar chart that plots the growth in case numbers for the Kent Variant within Germany over time.
