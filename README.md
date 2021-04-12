@@ -6,12 +6,12 @@ Source: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RK
 
 ![](dashboard.png)
 
-These estimates are scraped using Power Query, a forecast for is calculated and then visualized within a dashboard:
-  1. A line graph plots the developement of the basic reproduction number R over time. 
+These estimates are scraped using Power Query, a forecast for B117 is calculated and then visualized within the dashboard:
+  1. A line graph plots the developement of the basic reproduction number R over time (7-day-average based on all confirmed cases). 
   2. A bar chart that plots the growth in case numbers for the B117 (Kent Variant) within Germany over time.
   
 **Note:** This is a very simple proof of concept project and not a publication that meets scientific standards.
-But it is accurate enough to get a feel for the trajectory of the pandemic and to communicate it to relatives and/or friends.
+But it is accurate enough to get a feel for the trajectory of the pandemic and to communicate it to relatives and/or friends. After all sometimes a picture is worth more than a thousand words. And somehow the key message is often lost within complexity of dashboards like the one from RKI. The breakdown of case numbers to a local level is more than a little bit misleading. Then again, the trajectory isn't exactly stable due to the underlying data being reported infrequently.
 
 **How to use**
 Filters can be applied from within the Dashboard.
