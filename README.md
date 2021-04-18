@@ -13,7 +13,7 @@ These estimates are scraped using Power Query, a forecast for B117 is calculated
 **Note:** This is a very simple proof of concept project and not a publication that meets scientific standards.
 But it is accurate enough to get a feel for the trajectory of the pandemic and to communicate it to relatives and/or friends. After all sometimes a picture is worth more than a thousand words. And somehow the key message is often lost within complexity of dashboards like the one from RKI. The breakdown of case numbers to a local level is more than a little bit misleading. Then again, the trajectory isn't exactly stable due to the underlying data being reported infrequently.
 
-**How to use**
+**How to use:**
 Filters can be applied from within the Dashboard.
 The Forecast is highly reliant on how many of the total coronavirus cases are from B117, this value can be changed in cell C28 ("Anteil B117").
 B117 is assumend to be 60% more infectuous compared to the original strain - this value can be changed C29 ("Mutantenfaktor").
