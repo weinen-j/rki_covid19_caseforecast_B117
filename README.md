@@ -19,5 +19,5 @@ The Forecast is highly reliant on how many of the total coronavirus cases are fr
 B117 is assumend to be 60% more infectuous compared to the original strain - this value can be changed C29 ("Mutantenfaktor").
 
 Alternatively you can use the rki.py to get the relevant data. 
-This might be easier because the RKI keeps changing their column names in unpredictable way, which breaks Power Query. 
+This might be easier because the RKI keeps changing their column names in unpredictable ways, which breaks Power Query. 
 However, you'd need to rebuild the query or do the calculations and plotting directly within Python.
